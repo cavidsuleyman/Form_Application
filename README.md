@@ -10,7 +10,7 @@ Hello, today I create with html, css and js file for Form_Application. There are
 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Ballon-Game.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Form_Application.git` <br/>
 > **STEP-2:**  enter the `Form_Application` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`login.html and forget.html` files in the main folder <br/>
